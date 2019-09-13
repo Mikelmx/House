@@ -3,4 +3,4 @@ Python house
 ------------------------
 
 
-Haha just a picture of a house.
+Haha just a picture of a house
